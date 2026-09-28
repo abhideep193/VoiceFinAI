@@ -4,7 +4,7 @@
 
 <br/>
 
-[![CI Status](https://github.com/Aan9758/VoiceFinAI/actions/workflows/ci.yml/badge.svg)](https://github.com/Aan9758/VoiceFinAI/actions)
+[![CI Status](https://github.com/abhideep193/VoiceFinAI/actions/workflows/ci.yml/badge.svg)](https://github.com/abhideep193/VoiceFinAI/actions)
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![AuditStream](https://img.shields.io/badge/Hallucination%20Firewall-Mathematical%20Zero--Leak-success?logo=shield&logoColor=white)](core/auditstream.py)
 [![Latency](https://img.shields.io/badge/Response%20Latency-%3C800ms-brightgreen?logo=speedtest&logoColor=white)](#performance-benchmarks)
@@ -12,7 +12,8 @@
 [![LLM LPU](https://img.shields.io/badge/Inference-Groq%20LPU-f55036?logo=fastapi&logoColor=white)](https://groq.com/)
 [![TTS](https://img.shields.io/badge/Neural%20Speech-ElevenLabs%20%2F%20Edge%20TTS-purple?logo=audio&logoColor=white)](core/tts.py)
 [![Compliance](https://img.shields.io/badge/Data-SEBI%20%2F%20AMFI%20Verified-blue)](#regulatory-compliance--sebi-safeguards)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+**Copyright © 2026 Abhideep Bishui**
 
 <br/>
 
@@ -153,7 +154,7 @@ sequenceDiagram
 ### 1. Clone & Set Up Virtual Environment
 
 ```bash
-git clone https://github.com/Aan9758/VoiceFinAI.git
+git clone https://github.com/abhideep193/VoiceFinAI.git
 cd VoiceFinAI
 
 # Create virtual environment
@@ -212,7 +213,7 @@ python -m pytest
 Output:
 ```text
 ============================= test session starts ==============================
-rootdir: C:\Users\amans\OneDrive\Desktop\VOICEFINAI
+rootdir: C:\Users\Abhideep\Desktop\VoiceFinAI
 configfile: pytest.ini
 testpaths: tests, test_intent_router.py
 collected 84 items
